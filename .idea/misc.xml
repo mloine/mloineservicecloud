@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/../mloineservicecloud/pom.xml" />
         <option value="$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-provider-dept-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/../mloineservicecloud/mloineserviceclound-consumer-80/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="mloineservicecloud-api" />
         <module name="mloineservicecloud-provider-dept-8001" />
+        <module name="mloineserviceclound-consumer-80" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +17,7 @@
       <module name="mloineservicecloud-api" target="1.8" />
       <module name="mloineservicecloud-provider-dept" target="1.8" />
       <module name="mloineservicecloud-provider-dept-8001" target="1.8" />
+      <module name="mloineserviceclound-consumer-80" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

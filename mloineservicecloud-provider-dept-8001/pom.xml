@@ -4,17 +4,16 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>org.springframework.boot</groupId>
-		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.5.21.RELEASE</version>
-		<relativePath/> <!-- lookup parent from repository -->
+        <groupId>com.mloine.springcloud</groupId>
+        <artifactId>mloineservicecloud</artifactId>
+        <version>1.0-SNAPSHOT</version>
 	</parent>
 
 	<groupId>com.mloine</groupId>
 	<artifactId>mloineservicecloud-provider-dept-8001</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mloineservicecloud-provider-dept-8001</name>
-	<description>Demo project for Spring Boot</description>
+	<description>服务提供者</description>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -23,8 +22,8 @@
 	<dependencies>
 		<!-- 引入自己定义的api通用包，可以使用Dept部门Entity -->
 		<dependency>
-			<artifactId>mloineservicecloud</artifactId>
-			<groupId>com.mloine.springcloud</groupId>
+            <groupId>com.mloine.springcloud</groupId>
+            <artifactId>mloineservicecloud-api</artifactId>
 			<!--<version>${project.version}</version>-->
             <version>1.0-SNAPSHOT</version>
 		</dependency>
@@ -84,19 +83,8 @@
 			<artifactId>spring-boot-devtools</artifactId>
 		</dependency>
         <dependency>
-            <groupId>com.mloine.springcloud</groupId>
-            <artifactId>mloineservicecloud-api</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.mloine.springcloud</groupId>
-            <artifactId>mloineservicecloud-api</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.mloine.springcloud</groupId>
-            <artifactId>mloineservicecloud-api</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
         </dependency>
     </dependencies>
 

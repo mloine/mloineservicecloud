@@ -10,6 +10,10 @@
     <modules>
         <module>mloineservicecloud-api</module>
         <module>mloineservicecloud-provider-dept-8001</module>
+        <module>mloineservicecloud-eureka-7001</module>
+        <module>mloineservicecloud-eureka-7002</module>
+        <module>mloineservicecloud-eureka-7003</module>
+        <module>mloineserviceclound-consumer-80</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -74,6 +78,26 @@
         </dependencies>
     </dependencyManagement>
 
+    <build>
+        <finalName>mloineservicecloud</finalName>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+                <filtering>true</filtering>
+            </resource>
+        </resources>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-resources-plugin</artifactId>
+                <configuration>
+                    <delimiters>
+                        <delimit>$</delimit>
+                    </delimiters>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 
 
 </project>

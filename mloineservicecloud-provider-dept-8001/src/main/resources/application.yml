@@ -21,29 +21,24 @@ spring:
       initial-size: 5                                       # 初始化连接数
       max-total: 5                                          # 最大连接数
       max-wait-millis: 200                                  # 等待连接获取的最大超时时间
-    filters: stat
-    initialSize: 2
-    maxActive: 300
-    maxWait: 60000
-    timeBetweenEvictionRunsMillis: 60000
-    minEvictableIdleTimeMillis: 300000
-    validationQuery: SELECT 1
-    poolPreparedStatements: false
-    maxPoolPreparedStatementPerConnectionSize: 200
 
 
-#eureka:
-#  client: #客户端注册进eureka服务列表内
-#    service-url:
-#      #defaultZone: http://localhost:7001/eureka
-#       defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka/
-#  instance:
-#    instance-id: microservicecloud-dept8001
-#    prefer-ip-address: true     #访问路径可以显示IP地址
+
+eureka:
+  client: #客户端注册进eureka服务列表内
+    service-url:
+      defaultZone: http://localhost:7001/eureka
+      #defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka/
+  instance:
+    instance-id: mloineservicecloud-dept8001  #自定义服务信息
+    prefer-ip-address: true     #访问路径可以显示IP地址
 
 info:
   app.name: mloine-mloineservicecloud
   company.name: www.mloine.com
-  build.artifactId: $project.artifactId$
-  build.version: $project.version$
+#  build.artifactId: $project.artifactId$
+#  build.version: $project.version$
+  author: mloine
+  phone: 15618975413
+  wx: xyk15618975413
 

@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mloineservicecloud-api" />
+        <module name="mloineservicecloud-eureka-7001" />
         <module name="mloineservicecloud-provider-dept-8001" />
         <module name="mloineserviceclound-consumer-80" />
       </profile>
@@ -15,6 +16,7 @@
     <bytecodeTargetLevel>
       <module name="mloineservicecloud" target="1.8" />
       <module name="mloineservicecloud-api" target="1.8" />
+      <module name="mloineservicecloud-eureka-7001" target="1.8" />
       <module name="mloineservicecloud-provider-dept" target="1.8" />
       <module name="mloineservicecloud-provider-dept-8001" target="1.8" />
       <module name="mloineserviceclound-consumer-80" target="1.8" />

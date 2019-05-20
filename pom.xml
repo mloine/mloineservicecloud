@@ -10,6 +10,8 @@
     <modules>
         <module>mloineservicecloud-api</module>
         <module>mloineservicecloud-provider-dept-8001</module>
+        <module>mloineservicecloud-provider-dept-8002</module>
+        <module>mloineservicecloud-provider-dept-8003</module>
         <module>mloineservicecloud-eureka-7001</module>
         <module>mloineservicecloud-eureka-7002</module>
         <module>mloineservicecloud-eureka-7003</module>

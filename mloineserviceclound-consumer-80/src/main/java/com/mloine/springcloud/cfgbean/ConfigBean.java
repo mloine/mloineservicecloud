@@ -1,5 +1,9 @@
 package com.mloine.springcloud.cfgbean;
 
+import com.netflix.loadbalancer.IRule;
+import com.netflix.loadbalancer.RandomRule;
+import com.netflix.loadbalancer.RetryRule;
+import com.netflix.loadbalancer.RoundRobinRule;
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -18,6 +22,13 @@ public class ConfigBean {
     @Bean
     public RestTemplate getRestTemplate(){
         return new RestTemplate();
+    }
+    //路由算法调整 默认轮训
+    @Bean
+    public IRule myRule(){
+        //return new RoundRobinRule () //轮询
+        //return new RandomRule (); //随机
+        return new RetryRule ();//档机 自动尝试其他服务实例
     }
 
 }

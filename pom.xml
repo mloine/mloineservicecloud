@@ -16,6 +16,7 @@
         <module>mloineservicecloud-eureka-7002</module>
         <module>mloineservicecloud-eureka-7003</module>
         <module>mloineserviceclound-consumer-80</module>
+        <module>mloineserviceclound-consumer-feign</module>
     </modules>
     <packaging>pom</packaging>
 

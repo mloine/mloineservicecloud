@@ -13,7 +13,8 @@ import java.util.List;
   *@Author:mloine
   *@Date：2019/5/21 14:32
   **/
-@FeignClient(value = "MLOINESERVICECLOUD-DEPT")
+//@FeignClient(value = "MLOINESERVICECLOUD-DEPT")
+@FeignClient(value = "MLOINESERVICECLOUD-DEPT", fallbackFactory=DeptClientServiceFallbackFactory.class)
 public interface DeptClientService {
 
     @RequestMapping(value = "/dept/add",method = RequestMethod.POST)

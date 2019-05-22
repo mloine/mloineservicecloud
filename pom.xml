@@ -17,6 +17,7 @@
         <module>mloineservicecloud-eureka-7003</module>
         <module>mloineserviceclound-consumer-80</module>
         <module>mloineserviceclound-consumer-feign</module>
+        <module>mloineservicecloud-provider-dept-hystrix-8001</module>
     </modules>
     <packaging>pom</packaging>
 

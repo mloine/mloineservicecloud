@@ -6,10 +6,10 @@
     <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-eureka-7001" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-eureka-7002" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-eureka-7003" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-provider-dept" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-provider-dept-8001" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-provider-dept-8002" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-provider-dept-8003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-provider-dept-hystrix-8001" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineserviceclound-consumer-80" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineserviceclound-consumer-feign" charset="UTF-8" />
   </component>

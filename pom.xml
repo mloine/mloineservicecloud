@@ -18,6 +18,7 @@
         <module>mloineserviceclound-consumer-80</module>
         <module>mloineserviceclound-consumer-feign</module>
         <module>mloineservicecloud-provider-dept-hystrix-8001</module>
+        <module>mloineservicecloud-consumer-hystrix-dashboard</module>
     </modules>
     <packaging>pom</packaging>
 

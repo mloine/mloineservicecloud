@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
-    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/mloineservicecloud-api" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/mloineservicecloud-consumer-hystrix-dashboard" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/mloineservicecloud-eureka-7001" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/mloineservicecloud-eureka-7002" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/mloineservicecloud-eureka-7003" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/mloineservicecloud-provider-dept-8001" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/mloineservicecloud-provider-dept-8002" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/mloineservicecloud-provider-dept-8003" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/mloineservicecloud-provider-dept-hystrix-8001" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/mloineserviceclound-consumer-80" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/mloineserviceclound-consumer-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mloineservicecloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-consumer-hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-eureka-7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-eureka-7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-eureka-7003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-provider-dept-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-provider-dept-8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-provider-dept-8003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-provider-dept-hystrix-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-zuul-getway-9527" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineserviceclound-consumer-80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineserviceclound-consumer-feign" charset="UTF-8" />
   </component>
 </project>

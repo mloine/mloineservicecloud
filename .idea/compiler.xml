@@ -7,17 +7,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mloineservicecloud-provider-dept-hystrix-8001" />
-        <module name="mloineservicecloud-consumer-hystrix-dashboard" />
-        <module name="mloineservicecloud-eureka-7003" />
         <module name="mloineservicecloud-api" />
-        <module name="mloineservicecloud-provider-dept-8003" />
-        <module name="mloineservicecloud-provider-dept-8002" />
-        <module name="mloineservicecloud-provider-dept-8001" />
-        <module name="mloineservicecloud-eureka-7002" />
+        <module name="mloineservicecloud-consumer-hystrix-dashboard" />
         <module name="mloineservicecloud-eureka-7001" />
-        <module name="mloineserviceclound-consumer-feign" />
+        <module name="mloineservicecloud-eureka-7002" />
+        <module name="mloineservicecloud-eureka-7003" />
+        <module name="mloineservicecloud-provider-dept-8001" />
+        <module name="mloineservicecloud-provider-dept-8002" />
+        <module name="mloineservicecloud-provider-dept-8003" />
+        <module name="mloineservicecloud-provider-dept-hystrix-8001" />
+        <module name="mloineservicecloud-zuul-getway-9527" />
         <module name="mloineserviceclound-consumer-80" />
+        <module name="mloineserviceclound-consumer-feign" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -32,6 +33,7 @@
       <module name="mloineservicecloud-provider-dept-8002" target="1.8" />
       <module name="mloineservicecloud-provider-dept-8003" target="1.8" />
       <module name="mloineservicecloud-provider-dept-hystrix-8001" target="1.8" />
+      <module name="mloineservicecloud-zuul-getway-9527" target="1.8" />
       <module name="mloineserviceclound-consumer-80" target="1.8" />
       <module name="mloineserviceclound-consumer-feign" target="1.8" />
     </bytecodeTargetLevel>

@@ -2,18 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/mloineservicecloud.iml" filepath="$PROJECT_DIR$/mloineservicecloud.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mloineservicecloud-api/mloineservicecloud-api.iml" filepath="$PROJECT_DIR$/mloineservicecloud-api/mloineservicecloud-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mloineservicecloud-consumer-hystrix-dashboard/mloineservicecloud-consumer-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/mloineservicecloud-consumer-hystrix-dashboard/mloineservicecloud-consumer-hystrix-dashboard.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mloineservicecloud-eureka-7001/mloineservicecloud-eureka-7001.iml" filepath="$PROJECT_DIR$/mloineservicecloud-eureka-7001/mloineservicecloud-eureka-7001.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mloineservicecloud-eureka-7002/mloineservicecloud-eureka-7002.iml" filepath="$PROJECT_DIR$/mloineservicecloud-eureka-7002/mloineservicecloud-eureka-7002.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mloineservicecloud-eureka-7003/mloineservicecloud-eureka-7003.iml" filepath="$PROJECT_DIR$/mloineservicecloud-eureka-7003/mloineservicecloud-eureka-7003.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mloineservicecloud-provider-dept-8001/mloineservicecloud-provider-dept-8001.iml" filepath="$PROJECT_DIR$/mloineservicecloud-provider-dept-8001/mloineservicecloud-provider-dept-8001.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mloineservicecloud-provider-dept-8002/mloineservicecloud-provider-dept-8002.iml" filepath="$PROJECT_DIR$/mloineservicecloud-provider-dept-8002/mloineservicecloud-provider-dept-8002.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mloineservicecloud-provider-dept-8003/mloineservicecloud-provider-dept-8003.iml" filepath="$PROJECT_DIR$/mloineservicecloud-provider-dept-8003/mloineservicecloud-provider-dept-8003.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mloineservicecloud-provider-dept-hystrix-8001/mloineservicecloud-provider-dept-hystrix-8001.iml" filepath="$PROJECT_DIR$/mloineservicecloud-provider-dept-hystrix-8001/mloineservicecloud-provider-dept-hystrix-8001.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mloineserviceclound-consumer-80/mloineserviceclound-consumer-80.iml" filepath="$PROJECT_DIR$/mloineserviceclound-consumer-80/mloineserviceclound-consumer-80.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mloineserviceclound-consumer-feign/mloineserviceclound-consumer-feign.iml" filepath="$PROJECT_DIR$/mloineserviceclound-consumer-feign/mloineserviceclound-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-api/mloineservicecloud-api.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-api/mloineservicecloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-consumer-hystrix-dashboard/mloineservicecloud-consumer-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-consumer-hystrix-dashboard/mloineservicecloud-consumer-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-eureka-7001/mloineservicecloud-eureka-7001.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-eureka-7001/mloineservicecloud-eureka-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-eureka-7002/mloineservicecloud-eureka-7002.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-eureka-7002/mloineservicecloud-eureka-7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-eureka-7003/mloineservicecloud-eureka-7003.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-eureka-7003/mloineservicecloud-eureka-7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-provider-dept-8001/mloineservicecloud-provider-dept-8001.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-provider-dept-8001/mloineservicecloud-provider-dept-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-provider-dept-8002/mloineservicecloud-provider-dept-8002.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-provider-dept-8002/mloineservicecloud-provider-dept-8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-provider-dept-8003/mloineservicecloud-provider-dept-8003.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-provider-dept-8003/mloineservicecloud-provider-dept-8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-provider-dept-hystrix-8001/mloineservicecloud-provider-dept-hystrix-8001.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-provider-dept-hystrix-8001/mloineservicecloud-provider-dept-hystrix-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-zuul-getway-9527/mloineservicecloud-zuul-getway-9527.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-zuul-getway-9527/mloineservicecloud-zuul-getway-9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineserviceclound-consumer-80/mloineserviceclound-consumer-80.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineserviceclound-consumer-80/mloineserviceclound-consumer-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineserviceclound-consumer-feign/mloineserviceclound-consumer-feign.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineserviceclound-consumer-feign/mloineserviceclound-consumer-feign.iml" />
     </modules>
   </component>
 </project>

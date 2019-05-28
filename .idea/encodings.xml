@@ -3,6 +3,8 @@
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/../mloineservicecloud" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-config-3344" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-config-client-3355" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-consumer-hystrix-dashboard" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-eureka-7001" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-eureka-7002" charset="UTF-8" />
@@ -14,5 +16,7 @@
     <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-zuul-getway-9527" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineserviceclound-consumer-80" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineserviceclound-consumer-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineserviceconfig-dept-client-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mloineservicecloud/mloineserviceconfig-erueka-client-7001" charset="UTF-8" />
   </component>
 </project>

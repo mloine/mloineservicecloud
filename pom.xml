@@ -20,6 +20,10 @@
         <module>mloineservicecloud-provider-dept-hystrix-8001</module>
         <module>mloineservicecloud-consumer-hystrix-dashboard</module>
         <module>mloineservicecloud-zuul-getway-9527</module>
+        <module>mloineservicecloud-config-3344</module>
+        <module>mloineservicecloud-config-client-3355</module>
+        <module>mloineserviceconfig-erueka-client-7001</module>
+        <module>mloineserviceconfig-dept-client-8001</module>
     </modules>
     <packaging>pom</packaging>
 

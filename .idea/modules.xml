@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-api/mloineservicecloud-api.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-api/mloineservicecloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-config-3344/mloineservicecloud-config-3344.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-config-3344/mloineservicecloud-config-3344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-config-client-3355/mloineservicecloud-config-client-3355.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-config-client-3355/mloineservicecloud-config-client-3355.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-consumer-hystrix-dashboard/mloineservicecloud-consumer-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-consumer-hystrix-dashboard/mloineservicecloud-consumer-hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-eureka-7001/mloineservicecloud-eureka-7001.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-eureka-7001/mloineservicecloud-eureka-7001.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-eureka-7002/mloineservicecloud-eureka-7002.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-eureka-7002/mloineservicecloud-eureka-7002.iml" />
@@ -15,6 +17,8 @@
       <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-zuul-getway-9527/mloineservicecloud-zuul-getway-9527.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineservicecloud-zuul-getway-9527/mloineservicecloud-zuul-getway-9527.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineserviceclound-consumer-80/mloineserviceclound-consumer-80.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineserviceclound-consumer-80/mloineserviceclound-consumer-80.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineserviceclound-consumer-feign/mloineserviceclound-consumer-feign.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineserviceclound-consumer-feign/mloineserviceclound-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineserviceconfig-dept-client-8001/mloineserviceconfig-dept-client-8001.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineserviceconfig-dept-client-8001/mloineserviceconfig-dept-client-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mloineservicecloud/mloineserviceconfig-erueka-client-7001/mloineserviceconfig-erueka-client-7001.iml" filepath="$PROJECT_DIR$/../mloineservicecloud/mloineserviceconfig-erueka-client-7001/mloineserviceconfig-erueka-client-7001.iml" />
     </modules>
   </component>
 </project>
